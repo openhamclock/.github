@@ -19,7 +19,7 @@ the original CSI project is the [Open Hamclock Backend](https://ohb.works/).
 # Two Projects
 ## The Client
 ### HamClock
-The HamClock project is the kiosk-style client that users run in their home network. The HamClock client requires a server-based backend to function. In installation requires selection of the server that the client will connect to.
+The HamClock project is the kiosk-style client that users run in their home network. The HamClock client requires a server-based backend to function. An installation requires selection of the backend server that the client will connect to.
 
 ## The Server Backend
 
