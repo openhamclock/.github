@@ -22,8 +22,10 @@ the original CSI project is the [Open Hamclock Backend](https://ohb.works/).
 The HamClock project is the kiosk-style client that users run in their home network. The HamClock client requires a server-based backend to function. In installation requires selection of the server that the client will connect to.
 
 ## The Server Backend
-### Open HamClock Backend
-The Open HamClock Backend project recreates Clear Sky Institute's original functionality. Clear Sky Institute's server is not avaiable so OHB (Open HamClock Backend) recreates that functionality from scratch.
 
 ### hamclock.com
-The team at hamclock.com have also created a backend compatible with the HamClock client.
+The team at [hamclock.com](https://hamclock.com) have created a backend compatible with Clear Sky Institute's HamClock client.
+
+### Open HamClock Backend
+The Open HamClock Backend ([OHB](https://ohb.works)) project created an open source project compatible with Clear Sky Institute's HamClock client.
+
