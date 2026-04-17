@@ -1,4 +1,4 @@
-# Open HamClock GitHub for HamClock and Open HamClock Backend
+# GitHub for Open Source HamClock and Backend
 
 HamClock is a kiosk-style application that provides real time space weather, radio propagation models, operating events and other information particularly useful to the radio amateur. HamClock was introduced in an
 [October 2017 QST article](https://web.archive.org/web/20251130070310/https://clearskyinstitute.com/ham/HamClock/QST-HamClock.pdf).
@@ -12,7 +12,7 @@ and that the [HamClock site](https://clearskyinstitute.com/ham/HamClock/) announ
 > Thank you for your interest.
 > Elwood Downey, WB0OEW, <ecdowney@clearskyinstitute.com>
 
-Since the news, a few efforts have kicked off to maintain or create something similar for the future.
+HamClock consisted of an open source front-end client and a closed-source backend server. The client requires the backend server to work. Since the news, a few efforts have kicked off to maintain or create something similar for the future.
 
 # Two Projects
 ## The Client
@@ -26,4 +26,12 @@ The team at [hamclock.com](https://hamclock.com) have created a backend compatib
 
 ### Open HamClock Backend
 The Open HamClock Backend ([OHB](https://ohb.works)) project created an open source project compatible with Clear Sky Institute's HamClock client.
+
+# Standards
+To maintain compatibility between variants of the HamClock client and the HamClock backends, this organization includes a [standards](https://github.com/openhamclock/hamclock-standards) repository to define communication between the client and the backend server.
+
+# History
+Clearsky's history of revisions, release notes and community contributions are [archived in a respository](https://github.com/openhamclock/hamclock-client-archive), as well.
+
+
 
