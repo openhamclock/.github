@@ -15,11 +15,10 @@ and that the [HamClock site](https://clearskyinstitute.com/ham/HamClock/) announ
 Clearsky's HamClock consisted of an open source front-end client and a closed-source backend server. The client required the backend server to work. Since the news, a few efforts have kicked off to maintain or create something similar for the future.
 
 # Two Projects
-## The Client
-### HamClock
+## The Client - HamClock
 The HamClock project is the kiosk-style client that users run in their home network. The HamClock client requires a server-based backend to function. An installation requires selection of the backend server to which the client will connect.
 
-## The Server Backend
+## Server Backends
 
 ### hamclock.com
 The team at [hamclock.com](https://hamclock.com) have created a closed-source backend compatible with Clear Sky Institute's HamClock client.
