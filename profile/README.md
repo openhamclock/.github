@@ -12,9 +12,7 @@ and that the [HamClock site](https://clearskyinstitute.com/ham/HamClock/) announ
 > Thank you for your interest.
 > Elwood Downey, WB0OEW, <ecdowney@clearskyinstitute.com>
 
-Since the news, a few efforts have kicked off to maintain of create something similar for the future.
-Perhaps the leading open source effort to develop and maintain a system fully compatible with
-the original CSI project is the [Open Hamclock Backend](https://ohb.works/).
+Since the news, a few efforts have kicked off to maintain or create something similar for the future.
 
 # Two Projects
 ## The Client
